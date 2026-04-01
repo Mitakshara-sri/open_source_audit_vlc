@@ -2,21 +2,12 @@ Open Source Audit — VLC Media Player
 
  Project Overview
 This project is part of my Open Source Software course. The aim of this project is to study and understand an open-source software in detail. I have chosen **VLC Media Player** because it is widely used and fully open source.
-
-The project includes:
-- Study of VLC’s origin, license, and philosophy
-- Understanding how it works in a Linux environment
-- Analysis of the FOSS ecosystem
-- Comparison with proprietary software
-- Shell scripting tasks based on Linux concepts
-
 ---
 
 Objectives
 - To understand the concept of open source software  
 - To explore how VLC Media Player works  
-- To learn basic Linux commands and shell scripting  
-- To analyze differences between open source and proprietary software  
+- To learn basic Linux commands and shell scripting 
 
 ---
 
